@@ -73,7 +73,7 @@ class AuthenticateUserService{
                     id: user.id,
                 },
             },
-            "24cba783654c0ab5342dbf4d89081928",
+            "24cba783654c0ab5342dbf4d89081928s",
             { 
                 subject: user.id
             }
